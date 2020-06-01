@@ -1,0 +1,26 @@
+style.css
+body {
+    background-color: lightslategrey;
+    border: 1px solid lightslategrey;
+    
+}
+img {
+    background: #ffffff;
+    border: 3px solid #000000;
+    border-radius: 250px;
+    background-size: 600px 600px;
+    background-clip: padding-box;
+    padding: 3px solid white;
+    align: center;
+}
+a:hover {
+    color: red;
+}
+
+
+p {
+    border: 1px,solid #000000;
+}
+i {
+    color: blueviolet;
+}
